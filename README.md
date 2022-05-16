@@ -68,7 +68,7 @@ doctor generate customize command_name
 
 #
 
-## This CLI is part of a Brazilian project developed by <a src ="https://github.com/mrdiniz88"> Mr.Diniz </a>, this project has more integrated repositories, among them is the main part of the project <a src="https://github.com/doctorts/core">@doctorts/core"</a> and the library <a src="https://adiwajshing.github.io/Baileys/">@adiwajshing/baileys</a>.
+## This CLI is part of a Brazilian project developed by <a src="https://github.com/mrdiniz88"> Mr.Diniz </a>, this project has more integrated repositories, among them is the main part of the project <a src="https://github.com/doctorts/core">@doctorts/core</a> and the library <a src="https://adiwajshing.github.io/Baileys/">@adiwajshing/baileys</a>.
 
 <br/>
 
@@ -78,6 +78,6 @@ doctor generate customize command_name
 
 ### You should take a look!
 
-* <a src="https://github.com/doctorts/cli-win">@doctorts/cli-win</a>
-*  <a src="https://github.com/doctorts/cli-termux">@doctorts/cli-termux</a>
-* <a src="https://github.com/doctorts/cli-linux">@doctorts/cli-linux</a>
+* https://github.com/doctorts/cli-win
+* https://github.com/doctorts/cli-termux
+* https://github.com/doctorts/cli-linux
