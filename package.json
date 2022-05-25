@@ -1,9 +1,11 @@
 {
   "name": "@doctorts/cli-linux",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "DoctorTS framework CLI for linux",
   "main": "doctor",
-  "bin": "doctor",
+  "bin": {
+    "doctor": "doctor"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/doctorts/cli-linux.git"

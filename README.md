@@ -5,7 +5,7 @@
 ## How to get the CLI?
 
 ```shell
-npm install -g @doctor/cli-linux
+npm install -g @doctorts/cli-linux
 ```
 
 <br/>
@@ -68,7 +68,7 @@ doctor generate customize command_name
 
 #
 
-## This CLI is part of a Brazilian project developed by <a src="https://github.com/mrdiniz88"> Mr.Diniz </a>, this project has more integrated repositories, among them is the main part of the project <a src="https://github.com/doctorts/core">@doctorts/core</a> and the library <a src="https://adiwajshing.github.io/Baileys/">@adiwajshing/baileys</a>.
+## This CLI is part of a Brazilian project developed by [Mr.Diniz](https://github.com/mrdiniz88), this project has more integrated repositories, among them is the main part of the project [@doctorts/core](https://github.com/doctorts/core) and the library [@adiwajshing/baileys](https://adiwajshing.github.io/Baileys/).
 
 <br/>
 
